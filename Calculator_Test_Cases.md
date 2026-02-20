@@ -1,3 +1,37 @@
+# Test Cases for Simple Calculator Application
+
+---
+
+## TC_01 – Addition of Two Positive Numbers
+
+**Test Case ID:** TC_01  
+**Test Description:** Verify addition of two positive integers  
+**Preconditions:** Calculator application is launched  
+
+**Test Steps:**
+1. Enter 10  
+2. Enter 5  
+3. Click "+"  
+4. Click "="  
+
+**Expected Result:** Result should display 15  
+
+---
+
+## TC_02 – Division by Zero
+
+**Test Case ID:** TC_02  
+**Test Description:** Verify division by zero handling  
+**Preconditions:** Calculator application is launched  
+
+**Test Steps:**
+1. Enter 10  
+2. Enter 0  
+3. Click "/"  
+4. Click "="  
+
+**Expected Result:** System should display error message "Cannot divide by zero"
+
 TC_01 – Addition of Two Positive Numbers
 
 Test Case ID: TC_01
@@ -91,5 +125,6 @@ Test Steps:
 Enter expression: 2 + 3 × 4
 
 Click "="
+
 
 Expected Result: Result should display 14
