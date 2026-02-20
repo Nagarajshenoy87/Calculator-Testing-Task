@@ -41,4 +41,4 @@ To ensure the calculator performs operations correctly and handles errors proper
 
 ## 👨‍💻 Author
 
-#Nagaraj Shenoy S
+##Nagaraj Shenoy S
