@@ -3,10 +3,10 @@
 #Project Overview
 This project contains detailed manual test cases designed for a Simple Calculator Application that performs:
 
-+ Addition
-- Subtraction
-* Multiplication
-/ Division
+➕ Addition
+➖ Subtraction
+✖️ Multiplication
+➗ Division
 
 The test cases cover both **valid scenarios** and **invalid scenarios** including edge cases.
 
